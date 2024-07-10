@@ -80,17 +80,16 @@ An enthusiastic Full Stack Web Developer hailing from India.
 ## 📊 GitHub Stats:
 
 <p align="left">
-<a href="https://github.com/faizanhamid0717?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanhamid0717&show_icons=true&locale=en&layout=compact" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
+<a href="https://github.com/faheemw09?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09"  width="48%" alt="faheemw09"/></a>
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faizanhamid0717&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemw09&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
           alt="streak" />
 
-<a href="https://github.com/faizanhamid0717?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faizanhamid0717&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
+<a href="https://github.com/faheemw09?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faheemw09&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
 </p>
 
----
-<h2>⚡Activity Graph</h2>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faheemw09&theme=react-dark&hide_border=true" alt="faheem Activity Graph" />
+---<h2>⚡Activity Graph</h2>
+<!--     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faheemw09&theme=react-dark&hide_border=true" alt="faheem Activity Graph" /> -->
 
 <h2>⚡Feel free to reach out.✌️</h2>
 
