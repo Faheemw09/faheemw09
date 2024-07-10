@@ -88,12 +88,12 @@ An enthusiastic Full Stack Web Developer hailing from India.
 <a href="https://github.com/faheemw09?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faheemw09&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
 </p>
 
----<h2>⚡Activity Graph</h2>
-<!--     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=faheemw09&theme=react-dark&hide_border=true" alt="faheem Activity Graph" /> -->
+
+
 
 <h2>⚡Feel free to reach out.✌️</h2>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=faizanhamid0717&label=Profile%20views&color=0e75b6&style=flat" alt="faizanhamid0717"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=faheemw09&label=Profile%20views&color=0e75b6&style=flat" alt="faheemw09"/> </p>
 
  
 <img src="https://capsule-render.vercel.app/api?text=Thank%20you%20for%20Visiting!&animation=fadeIn&type=waving&color=&section=footer&height=100"/>
