@@ -66,7 +66,7 @@ const Faheem = {
 📫 **Reach me at**: [faheemh712@gmail.com](mailto:faheemh712@gmail.com)
 
 
-```
+---
 
 # 🛠️ Technologies:
 
