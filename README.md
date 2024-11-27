@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width=450>
 
-## :man_technologist
+## About Me
 ## Hi there, my name is <𝙵𝚊𝚑𝚎𝚎𝚖/>
 I'm a Full Stack Web Developer passionate about creating innovative and user-friendly web applications! 👨‍💻  
 <br />
@@ -53,11 +53,12 @@ const Faheem = {
 
 ````
 👯 I’m actively looking for Open Source Opportunities  
-🖥️ [Check out my Portfolio](https://faheemw09.github.io/)  
-🔗 [Find all my projects here](https://github.com/faheemw09?tab=repositories)  
-🪢 [Learn more about me: My Resume](https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQ/view?usp=sharing)  
+🖥️ Check out my Portfolio(https://faheemw09.github.io/)  
+🔗 Find all my projects here(https://github.com/faheemw09?tab=repositories)  
+🪢 Learn more about me: My Resume(https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQ/view?usp=sharing)  
 💬 Ask me about React, Redux, Node.js, Express, MongoDB  
 📫 Reach me at [faheemh712@gmail.com](mailto:faheemh712@gmail.com)
+````
 
 
 # 🛠️ Technologies:
