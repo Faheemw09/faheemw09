@@ -24,18 +24,36 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width=450>
 
 ## :man_technologist: About Me :
-An enthusiastic Full Stack Web Developer hailing from India.
+## Hi there, my name is <𝙵𝚊𝚑𝚎𝚎𝚖/>
+I'm a Full Stack Web Developer passionate about creating innovative and user-friendly web applications! 👨‍💻  
+<br />
 
+I have **1+ year of experience** in the tech industry. I also completed an intensive Full Stack Web Development course from **Masai School**.  
+My expertise lies in merging technical proficiency with creativity to develop seamless, dynamic, and scalable applications.
 
-- 🌱 I’m currently learning **Full Stack Development**
-- 👯 I am also looking for some **Open Source Oppurtunities**
-- 👨🏻‍🎓 Visit my **[Portfolio](https://faheemw09.github.io/)**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/faheemw09?tab=repositories)**
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQMECi-KQVRJ/view?usp=drive_link)**
--  💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB**
-- 📫 How to reach me **faheemh712@gmail.com**
+```javascript
+const Faheem = {
+  pronouns: "He/Him",
+  jobTitle: "Full Stack Developer",
+  education: [
+     "BTech in Civil Engineering",
+    "Full Stack Web Development Course - Masai School"
+  ],
+  skills: {
+    frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Material UI", "Ant Design"],
+    design: ["Figma", "Canva"]
+  },
+  favorites: ["React", "Redux", "Tailwind CSS", "Express.js", "MongoDB"], 
+  hobbies: ["coding", "traveling", "generative AI", "learning new tech"],
+  funFact: "I transitioned from Civil Engineering to Full Stack Web Development!",
+  portfolio: "https://faheemw09.github.io/",
+  projects: "https://github.com/faheemw09?tab=repositories",
+  resume: "https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQMECi-KQVRJ/view?usp=drive_link",
+  contact: "faheemh712@gmail.com"
+};
 
----
 
 # 🛠️ Technologies:
 
