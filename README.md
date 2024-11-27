@@ -52,12 +52,13 @@ const Faheem = {
 };
 
 ````
-👯 I’m actively looking for Open Source Opportunities
-🖥️ Check out my Portfolio
-🔗 Find all my projects here
-🪢 Learn more about me: My Resume
-💬 Ask me about React, Redux, Node.js, Express, MongoDB
-📫 Reach me at faheemh712@gmail.com
+👯 I’m actively looking for Open Source Opportunities  
+🖥️ [Check out my Portfolio](https://faheemw09.github.io/)  
+🔗 [Find all my projects here](https://github.com/faheemw09?tab=repositories)  
+🪢 [Learn more about me: My Resume](https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQ/view?usp=sharing)  
+💬 Ask me about React, Redux, Node.js, Express, MongoDB  
+📫 Reach me at [faheemh712@gmail.com](mailto:faheemh712@gmail.com)
+
 
 # 🛠️ Technologies:
 
