@@ -23,7 +23,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width=450>
 
-## :man_technologist: About Me :
+## :man_technologist
 ## Hi there, my name is <𝙵𝚊𝚑𝚎𝚎𝚖/>
 I'm a Full Stack Web Developer passionate about creating innovative and user-friendly web applications! 👨‍💻  
 <br />
@@ -48,13 +48,17 @@ const Faheem = {
   favorites: ["React", "Redux", "Tailwind CSS", "Express.js", "MongoDB"], 
   hobbies: ["coding", "traveling", "generative AI", "learning new tech"],
   funFact: "I transitioned from Civil Engineering to Full Stack Web Development!",
-  portfolio: "https://faheemw09.github.io/",
-  projects: "https://github.com/faheemw09?tab=repositories",
-  resume: "https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQMECi-KQVRJ/view?usp=drive_link",
-  contact: "faheemh712@gmail.com"
+ 
 };
 
 ````
+👯 I’m actively looking for Open Source Opportunities
+🖥️ Check out my Portfolio
+🔗 Find all my projects here
+🪢 Learn more about me: My Resume
+💬 Ask me about React, Redux, Node.js, Express, MongoDB
+📫 Reach me at faheemh712@gmail.com
+
 # 🛠️ Technologies:
 
 ### Languages & Markup :
