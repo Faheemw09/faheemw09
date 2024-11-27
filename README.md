@@ -26,7 +26,7 @@
 ## About Me
 ## Hi there, my name is <𝙵𝚊𝚑𝚎𝚎𝚖/>
 I'm a Full Stack Web Developer passionate about creating innovative and user-friendly web applications! 👨‍💻  
-<br />
+
 
 I have **1+ year of experience** in the tech industry. I also completed an intensive Full Stack Web Development course from **Masai School**.  
 My expertise lies in merging technical proficiency with creativity to develop seamless, dynamic, and scalable applications.
@@ -53,11 +53,17 @@ const Faheem = {
 
 ````
 👯 I’m actively looking for Open Source Opportunities  
-🖥️ Check out my Portfolio: [Portfolio](https://faheemw09.github.io/)  
-🔗 Find all my projects here: [Projects](https://github.com/faheemw09?tab=repositories)  
-🪢 Learn more about me: [My Resume](https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQ/view?usp=sharing)  
-💬 Ask me about React, Redux, Node.js, Express, MongoDB  
-📫 Reach me at [faheemh712@gmail.com](mailto:faheemh712@gmail.com)
+  
+🖥️ **Check out my Portfolio**: [Portfolio](https://faheemw09.github.io/)  
+
+🔗 **Find all my projects here**: [Projects](https://github.com/faheemw09?tab=repositories)  
+
+🪢 **Learn more about me**: [My Resume](https://drive.google.com/file/d/1LQ8cAfu9besOoJvDohQlLQ/view?usp=sharing)  
+
+💬 **Ask me about**: React, Redux, Node.js, Express, MongoDB  
+
+📫 **Reach me at**: [faheemh712@gmail.com](mailto:faheemh712@gmail.com)
+
 
 ````
 
