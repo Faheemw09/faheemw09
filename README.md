@@ -43,7 +43,7 @@ const Faheem = {
   skills: {
     frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "MongoDB"],
-    tools: ["Material UI", "Ant Design"],
+    tools: ["VS Code", "Postman", "Git", "Vercel", "Netlify"],
     design: ["Figma", "Canva"]
   },
   favorites: ["React", "Redux", "Tailwind CSS", "Express.js", "MongoDB"], 
