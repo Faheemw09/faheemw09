@@ -38,7 +38,7 @@ const Faheem = {
   jobTitle: "Full Stack Developer",
   education: [
      "BTech in Civil Engineering",
-    "Full Stack Web Development Course - Masai School"
+     "Full Stack Web Development Course - Masai School"
   ],
   skills: {
     frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git", "Tailwind CSS"],
