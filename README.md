@@ -111,12 +111,12 @@ const Faheem = {
 ## 📊 GitHub Stats:
 
 <p align="left">
-<a href="https://github.com/faheemw09?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09"  width="48%" alt="faheemw09"/></a>
+<a href="https://github.com/faheemw09?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemw09&show_icons=true&locale=en&layout=compact" alt="faheemw09"  width="100%" alt="faheemw09"/></a>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=faheemw09&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"
-          alt="streak" />
+          alt="streak"  width="100%"  />
 
-<a href="https://github.com/faheemw09?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faheemw09&show_icons=true&locale=en" alt="faizanhamid0717"  width="48%" alt="faizanhamid0717"/></a>
+<a href="https://github.com/faheemw09?tab=stars"><img src="https://github-readme-stats.vercel.app/api?username=faheemw09&show_icons=true&locale=en" alt="faizanhamid0717"  width="100%" alt="faizanhamid0717"/></a>
 </p>
 
 
