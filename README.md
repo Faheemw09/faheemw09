@@ -75,13 +75,6 @@ coreConcepts: [
 
 }
 
-hobbies: [
-"Coding",
-"Building SaaS Products",
-"Learning AI Technologies",
-"Exploring New Frameworks",
-"Traveling"
-],
 
 funFact:
 "I successfully transitioned from Civil Engineering to Full Stack Development and now build scalable web applications using modern JavaScript technologies."
