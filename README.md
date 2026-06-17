@@ -31,8 +31,7 @@ I'm a Full Stack Web Developer passionate about creating innovative and user-fri
 
 I have **3+ year of experience** in the tech industry. I also completed an intensive Full Stack Web Development course from **Masai School**.  
 My expertise lies in merging technical proficiency with creativity to develop seamless, dynamic, and scalable applications.
-
-`````
+```javascript
 const Faheem = {
   pronouns: "He/Him",
   jobTitle: "Full Stack Developer",
@@ -86,7 +85,7 @@ funFact:
  
 };
 
-}
+`````
 👯 I’m actively looking for Open Source Opportunities  
   
 🖥️ **Check out my Portfolio**: [Portfolio](https://faheemw09.github.io/)  
