@@ -85,7 +85,7 @@ hobbies: [
 
 funFact:
 "I successfully transitioned from Civil Engineering to Full Stack Development and now build scalable web applications using modern JavaScript technologies."
-};
+
 
   favorites: ["React", "Redux", "Tailwind CSS", "Express.js", "MongoDB"], 
   hobbies: ["coding", "traveling", "generative AI", "learning new tech"],
@@ -93,7 +93,7 @@ funFact:
  
 };
 
-```
+````
 👯 I’m actively looking for Open Source Opportunities  
   
 🖥️ **Check out my Portfolio**: [Portfolio](https://faheemw09.github.io/)  
