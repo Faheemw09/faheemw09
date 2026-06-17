@@ -40,12 +40,121 @@ const Faheem = {
      "BTech in Civil Engineering",
      "Full Stack Web Development Course - Masai School"
   ],
-  skills: {
-    frontend: ["JavaScript", "React", "Redux", "HTML5", "CSS3", "Git", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "MongoDB"],
-    tools: ["VS Code", "Postman", "Git", "Vercel", "Netlify"],
-    design: ["Figma", "Canva"]
-  },
+const Faheem = {
+pronouns: "He/Him",
+jobTitle: "Senior Full Stack Developer",
+
+education: [
+"B.Tech in Civil Engineering",
+"Full Stack Web Development - Masai School"
+],
+
+skills: {
+frontend: [
+"React.js",
+"Next.js",
+"Redux",
+"Context API",
+"JavaScript (ES6+)",
+"TypeScript",
+"HTML5",
+"CSS3",
+"Tailwind CSS",
+"Ant Design",
+"Bootstrap",
+"Material UI",
+"Radix UI",
+"Responsive Web Design"
+],
+
+```
+realTime: [
+  "Socket.IO",
+  "WebSockets",
+  "Real-Time UI Updates",
+  "Event-Driven UI"
+],
+
+backend: [
+  "Node.js",
+  "Express.js",
+  "RESTful APIs",
+  "GraphQL",
+  "API Integration",
+  "MVC Architecture",
+  "Middleware Design"
+],
+
+databases: [
+  "MongoDB",
+  "SQL",
+  "Database Design",
+  "CRUD Operations",
+  "Data Modeling",
+  "Query Optimization"
+],
+
+security: [
+  "JWT Authentication",
+  "OAuth",
+  "Role-Based Access Control (RBAC)",
+  "Secure Login Systems"
+],
+
+aiAndIntegrations: [
+  "Generative AI",
+  "AI Chatbots",
+  "Prompt Engineering",
+  "OpenAI API",
+  "LangChain",
+  "RAG",
+  "AI API Integration",
+  "Third-Party APIs",
+  "Webhooks"
+],
+
+devOpsAndTools: [
+  "Git",
+  "GitHub",
+  "Postman",
+  "Firebase",
+  "Vercel",
+  "Netlify",
+  "VS Code"
+],
+
+coreConcepts: [
+  "Full-Stack Development",
+  "OOP",
+  "Data Structures & Algorithms",
+  "Problem Solving",
+  "System Design Basics"
+]
+```
+
+},
+
+favorites: [
+"React.js",
+"Next.js",
+"Node.js",
+"MongoDB",
+"Tailwind CSS",
+"Generative AI"
+],
+
+hobbies: [
+"Coding",
+"Building SaaS Products",
+"Learning AI Technologies",
+"Exploring New Frameworks",
+"Traveling"
+],
+
+funFact:
+"I successfully transitioned from Civil Engineering to Full Stack Development and now build scalable web applications using modern JavaScript technologies."
+};
+
   favorites: ["React", "Redux", "Tailwind CSS", "Express.js", "MongoDB"], 
   hobbies: ["coding", "traveling", "generative AI", "learning new tech"],
   funFact: "I transitioned from Civil Engineering to Full Stack Web Development!",
