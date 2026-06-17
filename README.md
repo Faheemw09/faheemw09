@@ -32,7 +32,7 @@ I'm a Full Stack Web Developer passionate about creating innovative and user-fri
 I have **3+ year of experience** in the tech industry. I also completed an intensive Full Stack Web Development course from **Masai School**.  
 My expertise lies in merging technical proficiency with creativity to develop seamless, dynamic, and scalable applications.
 
-```javascript
+
 const Faheem = {
   pronouns: "He/Him",
   jobTitle: "Full Stack Developer",
@@ -40,108 +40,40 @@ const Faheem = {
      "BTech in Civil Engineering",
      "Full Stack Web Development Course - Masai School"
   ],
-const Faheem = {
-pronouns: "He/Him",
-jobTitle: "Senior Full Stack Developer",
-
-education: [
-"B.Tech in Civil Engineering",
-"Full Stack Web Development - Masai School"
-],
-
-skills: {
+  skills: {
 frontend: [
-"React.js",
-"Next.js",
-"Redux",
-"Context API",
-"JavaScript (ES6+)",
-"TypeScript",
-"HTML5",
-"CSS3",
-"Tailwind CSS",
-"Ant Design",
-"Bootstrap",
-"Material UI",
-"Radix UI",
-"Responsive Web Design"
+"React.js, Next.js, Redux, Context API, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Ant Design, Bootstrap, Material UI, Radix UI, Responsive Web Design"
 ],
 
-```
 realTime: [
-  "Socket.IO",
-  "WebSockets",
-  "Real-Time UI Updates",
-  "Event-Driven UI"
+  "Socket.IO, WebSockets, Real-Time UI Updates, Event-Driven UI"
 ],
 
 backend: [
-  "Node.js",
-  "Express.js",
-  "RESTful APIs",
-  "GraphQL",
-  "API Integration",
-  "MVC Architecture",
-  "Middleware Design"
+  "Node.js, Express.js, RESTful APIs, GraphQL, API Integration, MVC Architecture, Middleware Design"
 ],
 
 databases: [
-  "MongoDB",
-  "SQL",
-  "Database Design",
-  "CRUD Operations",
-  "Data Modeling",
-  "Query Optimization"
+  "MongoDB, SQL, Database Design, CRUD Operations, Data Modeling, Query Optimization"
 ],
 
 security: [
-  "JWT Authentication",
-  "OAuth",
-  "Role-Based Access Control (RBAC)",
-  "Secure Login Systems"
+  "JWT Authentication, OAuth, Role-Based Access Control (RBAC), Secure Login Systems"
 ],
 
 aiAndIntegrations: [
-  "Generative AI",
-  "AI Chatbots",
-  "Prompt Engineering",
-  "OpenAI API",
-  "LangChain",
-  "RAG",
-  "AI API Integration",
-  "Third-Party APIs",
-  "Webhooks"
+  "Generative AI, AI Chatbots, Prompt Engineering, OpenAI API, LangChain, RAG, AI API Integration, Third-Party APIs, Webhooks"
 ],
 
 devOpsAndTools: [
-  "Git",
-  "GitHub",
-  "Postman",
-  "Firebase",
-  "Vercel",
-  "Netlify",
-  "VS Code"
+  "Git, GitHub, Postman, Firebase, Vercel, Netlify, VS Code"
 ],
 
 coreConcepts: [
-  "Full-Stack Development",
-  "OOP",
-  "Data Structures & Algorithms",
-  "Problem Solving",
-  "System Design Basics"
+  "Full-Stack Development, OOP, Data Structures & Algorithms, Problem Solving, System Design Basics"
 ]
-```
 
-},
-
-favorites: [
-"React.js",
-"Next.js",
-"Node.js",
-"MongoDB",
-"Tailwind CSS",
-"Generative AI"
-],
+}
 
 hobbies: [
 "Coding",
